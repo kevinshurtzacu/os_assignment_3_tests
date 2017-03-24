@@ -16,21 +16,21 @@ else
 
     # Run "primes" five times in the background
     echo -e "\nPrimes (1):"
-    ./primes &
+    ./primes
 
     echo -e "\nPrimes (2):"
-    ./primes &
+    ./primes
 
     echo -e "\nPrimes (3):"
-    ./primes &
+    ./primes
 
     echo -e "\nPrimes (4):"
-    ./primes &
+    ./primes
 
     echo -e "\nPrimes (5):"
-    ./primes &
+    ./primes
 
     # Time how long "scanfiles" takes to run
     echo -e "\nRunning Scanfiles:"
-    time ./scanfiles > /dev/null
+    time sh -c ./scanfiles > /dev/null
 fi
