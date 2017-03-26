@@ -8,4 +8,8 @@ Control:
 (2)	0.10 real	0.01 user	0.06 sys
 (3)	0.10 real	0.00 user	0.08 sys
 
+Unfair:
+(1)	0.21 real	0.03 user	0.11 sys
+(2)	0.11 real	0.01 user	0.10 sys
+(3)	0.10 real	0.00 user	0.10 sys
 
