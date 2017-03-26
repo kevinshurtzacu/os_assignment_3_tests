@@ -1,0 +1,24 @@
+Testing primes.c / scanfile.cpp Runtimes:
+
+Primes (1):
+Parent pid: 1437
+[1437] parent of [1438] returning to shell
+
+Primes (2):
+Parent pid: 1439
+[1439] parent of [1440] returning to shell
+
+Primes (3):
+Parent pid: 1441
+[1441] parent of [1442] returning to shell
+
+Primes (4):
+Parent pid: 1443
+[1443] parent of [1444] returning to shell
+
+Primes (5):
+Parent pid: 1445
+[1445] parent of [1446] returning to shell
+
+Running Scanfiles:
+

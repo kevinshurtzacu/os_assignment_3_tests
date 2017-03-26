@@ -32,5 +32,5 @@ else
 
     # Time how long "scanfiles" takes to run
     echo -e "\nRunning Scanfiles:"
-    time sh -c ./scanfiles > /dev/null
+    time ./scanfiles > /dev/null
 fi
